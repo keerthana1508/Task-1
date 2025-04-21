@@ -86,8 +86,3 @@ To clean and preprocess the **Customer Personality Analysis** dataset by address
 - Learned how to make a dataset analysis-ready
 - Improved skills in Pandas and real-world data handling
 
----
-
-## 🔗 Submission Link
-[GitHub Repository Link Here]
-
